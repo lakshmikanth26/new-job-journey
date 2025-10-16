@@ -354,7 +354,7 @@ export default function ProgramsPage() {
         ) : (
           <div className="text-center py-12">
             <p className="text-gray-600 dark:text-gray-400">
-              No problems added yet. Click "Add Problem" to get started!
+              No problems added yet. Click &quot;Add Problem&quot; to get started!
             </p>
           </div>
         )}

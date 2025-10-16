@@ -431,7 +431,7 @@ export default function ProjectsPage() {
         ) : (
           <div className="bg-white dark:bg-gray-800 rounded-xl p-12 border border-gray-200 dark:border-gray-700 text-center">
             <p className="text-gray-600 dark:text-gray-400">
-              No projects added yet. Click "Add Project" to get started!
+              No projects added yet. Click &quot;Add Project&quot; to get started!
             </p>
           </div>
         )}

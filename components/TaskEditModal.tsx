@@ -185,17 +185,18 @@ export default function TaskEditModal({ isOpen, onClose, task, onSave }: TaskEdi
                       <span className="text-2xl">{getFileIcon(fileName)}</span>
                       
                       <div className="flex-1 min-w-0">
-                        <p className="text-sm font-medium text-gray-900 dark:text-white truncate">
-                          {fileName}
-                        </p>
-                        {isImage && (
-                          <img
-                            src={url}
-                            alt={fileName}
-                            className="mt-2 h-20 w-auto object-cover rounded"
-                          />
-                        )}
-                      </div>
+                      <p className="text-sm font-medium text-gray-900 dark:text-white truncate">
+                        {fileName}
+                      </p>
+                      {isImage && (
+                        // eslint-disable-next-line @next/next/no-img-element
+                        <img
+                          src={url}
+                          alt={fileName}
+                          className="mt-2 h-20 w-auto object-cover rounded"
+                        />
+                      )}
+                    </div>
 
                       <div className="flex gap-2">
                         <a

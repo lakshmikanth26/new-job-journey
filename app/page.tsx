@@ -123,7 +123,7 @@ export default function Dashboard() {
           <p className="text-2xl font-bold text-gray-900 dark:text-white mb-1">
             {todayCompleted}/{todaysTasks.length}
           </p>
-          <p className="text-sm text-gray-600 dark:text-gray-400">Today's Tasks</p>
+          <p className="text-sm text-gray-600 dark:text-gray-400">Today&apos;s Tasks</p>
         </div>
 
         <div className="bg-white dark:bg-gray-800 rounded-xl p-6 border border-gray-200 dark:border-gray-700">
@@ -162,7 +162,7 @@ export default function Dashboard() {
       {/* Today's Tasks */}
       <div className="bg-white dark:bg-gray-800 rounded-xl p-6 border border-gray-200 dark:border-gray-700">
         <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-6">
-          Today's Tasks - Day {currentDay}
+          Today&apos;s Tasks - Day {currentDay}
         </h2>
         
         {todaysTasks.length > 0 ? (
