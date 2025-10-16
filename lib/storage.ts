@@ -32,7 +32,6 @@ export async function uploadFile(file: File, folder: string = 'task-attachments'
     if (error) {
       console.error('❌ Upload Error Details:', {
         message: error.message,
-        statusCode: error.statusCode,
         error: error,
       });
       return null;
