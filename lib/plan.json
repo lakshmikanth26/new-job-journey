@@ -1,0 +1,133 @@
+[
+  { "day": 1, "tasks": [
+      { "title": "Update LinkedIn & Resume", "description": "Add Walmart & SAP keywords, headline and summary.", "category": "Profile" },
+      { "title": "Revise Java OOPs", "description": "Review encapsulation, inheritance, polymorphism.", "category": "Java" }
+    ]
+  },
+  { "day": 2, "tasks": [
+      { "title": "Solve 3 DSA - Easy", "description": "Two Sum, Merge Sorted Array, Valid Parentheses.", "category": "DSA" }
+    ]
+  },
+  { "day": 3, "tasks": [
+      { "title": "Big O & Collections", "description": "Learn time/space complexity basics and Java Collections overview.", "category": "Java" },
+      { "title": "Leetcode - Easy x2", "description": "Practice two additional easy problems.", "category": "DSA" }
+    ]
+  },
+  { "day": 4, "tasks": [
+      { "title": "SAP BTP Fundamentals - OpenSAP", "description": "Complete first module of SAP BTP fundamentals course.", "category": "SAP BTP" },
+      { "title": "Write LinkedIn post", "description": "Share week 1 goals and progress.", "category": "Profile" }
+    ]
+  },
+  { "day": 5, "tasks": [
+      { "title": "Spring Boot - CRUD API", "description": "Create simple CRUD REST API (Controller, Service, Repo).", "category": "Spring Boot" }
+    ]
+  },
+  { "day": 6, "tasks": [
+      { "title": "Start CAP (SAP) Hello World", "description": "Create basic CAP project (Java) and run locally.", "category": "SAP BTP" },
+      { "title": "Leetcode - Medium x1", "description": "Solve one medium difficulty DSA problem.", "category": "DSA" }
+    ]
+  },
+  { "day": 7, "tasks": [
+      { "title": "Weekly Review & Quiz", "description": "Review Java, DSA and SAP notes. Self-quiz.", "category": "Revision" },
+      { "title": "Plan Week 2", "description": "Prepare tasks for the next week and update tracker.", "category": "Profile" }
+    ]
+  },
+  { "day": 8, "tasks": [
+      { "title": "DSA - Arrays & Strings", "description": "Solve 4 problems focused on arrays and strings (Easy-Medium).", "category": "DSA" }
+    ]
+  },
+  { "day": 9, "tasks": [
+      { "title": "Microservice with Feign", "description": "Build a microservice using Feign client + simple service call.", "category": "Spring Boot" }
+    ]
+  },
+  { "day": 10, "tasks": [
+      { "title": "CAP - Entity Model", "description": "Create entity model (Books/Orders) in CAP.", "category": "SAP BTP" },
+      { "title": "Add project to GitHub", "description": "Push CAP starter project with README.", "category": "Project" }
+    ]
+  },
+  { "day": 11, "tasks": [
+      { "title": "UI5 / Fiori Basics", "description": "Complete a UI5 introduction module on OpenSAP.", "category": "SAP BTP" }
+    ]
+  },
+  { "day": 12, "tasks": [
+      { "title": "System Design Basics", "description": "Learn API Gateway, Caching, Load Balancer concepts (watch a 45-60 min video).", "category": "System Design" }
+    ]
+  },
+  { "day": 13, "tasks": [
+      { "title": "Deploy CAP to SAP BTP Trial", "description": "Deploy the CAP app to SAP BTP Trial and verify logs.", "category": "SAP BTP" }
+    ]
+  },
+  { "day": 14, "tasks": [
+      { "title": "Weekly Review & DSA Mix", "description": "Revise SAP CAP and solve 5 mixed DSA problems.", "category": "Revision" }
+    ]
+  },
+  { "day": 15, "tasks": [
+      { "title": "Project: Employee Management App - Start", "description": "Scaffold app (CAP+React or Spring Boot+React) and design schema.", "category": "Project" }
+    ]
+  },
+  { "day": 16, "tasks": [
+      { "title": "DSA - Sliding Window / Two Pointers", "description": "Solve 3 medium problems using sliding window and two pointers.", "category": "DSA" }
+    ]
+  },
+  { "day": 17, "tasks": [
+      { "title": "Java Deep Dive", "description": "Read about CompletableFuture, Streams, Exception handling and practice examples.", "category": "Java" }
+    ]
+  },
+  { "day": 18, "tasks": [
+      { "title": "SAP BTP - HANA Integration", "description": "Explore HANA Cloud integration and check CAP DB connectivity.", "category": "SAP BTP" }
+    ]
+  },
+  { "day": 19, "tasks": [
+      { "title": "System Design - Order Management", "description": "Design Order Management System: APIs, DB, scaling, caching.", "category": "System Design" }
+    ]
+  },
+  { "day": 20, "tasks": [
+      { "title": "Resume Update & Project README", "description": "Add SAP BTP project link + GitHub to resume and improve README.", "category": "Profile" },
+      { "title": "LinkedIn Project Post", "description": "Post about project progress and learnings.", "category": "Profile" }
+    ]
+  },
+  { "day": 21, "tasks": [
+      { "title": "Mock Interview Practice - DSA", "description": "Do a self/peer mock DSA interview (45-60 mins).", "category": "Mock Interview" },
+      { "title": "CAP Quick Quiz", "description": "Quick quiz on CAP concepts and BTP deployment.", "category": "Revision" }
+    ]
+  },
+  { "day": 22, "tasks": [
+      { "title": "Apply: SAP Labs & Walmart", "description": "Submit applications on jobs.sap.com and Walmart LinkedIn openings.", "category": "Applications" }
+    ]
+  },
+  { "day": 23, "tasks": [
+      { "title": "Referral Outreach", "description": "Connect & message 10 SAP/Walmart employees on LinkedIn for referrals.", "category": "Referrals" }
+    ]
+  },
+  { "day": 24, "tasks": [
+      { "title": "DSA - Trees & HashMaps", "description": "Solve 3 medium problems on trees and hash-based problems.", "category": "DSA" }
+    ]
+  },
+  { "day": 25, "tasks": [
+      { "title": "System Design Mock", "description": "Conduct one mock system design interview (explain components, trade-offs).", "category": "Mock Interview" }
+    ]
+  },
+  { "day": 26, "tasks": [
+      { "title": "SAP Integration Suite & APIs", "description": "Explore Integration Suite basics and APIs, read docs or tutorial.", "category": "SAP BTP" }
+    ]
+  },
+  { "day": 27, "tasks": [
+      { "title": "Polish Project & Deploy", "description": "Fix bugs, add screenshots, deploy project (Vercel or BTP), update links.", "category": "Project" }
+    ]
+  },
+  { "day": 28, "tasks": [
+      { "title": "Full Revision Day", "description": "Revise DSA, CAP, Spring Boot, and System Design notes. Mark items to revisit.", "category": "Revision" }
+    ]
+  },
+  { "day": 29, "tasks": [
+      { "title": "Behavioral Prep (STAR)", "description": "Prepare 8 STAR formatted behavioral answers for interviews.", "category": "Profile" },
+      { "title": "Final DSA Warmup", "description": "Solve 2 quick Leetcode problems to stay sharp.", "category": "DSA" }
+    ]
+  },
+  { "day": 30, "tasks": [
+      { "title": "Apply to Backup Companies & Reflect", "description": "Apply to SAP partners and India product companies. Reflect and plan next 30 days.", "category": "Applications" },
+      { "title": "Export Progress & Plan", "description": "Export or screenshot progress, create next month plan.", "category": "Profile" }
+    ]
+  }
+]
+
